@@ -19,4 +19,4 @@ I wrote most of it while flying from OSCON @ Portland,OR to Chicago on my way ho
 
 [NOTE]
 Use the Neo1x branch for Neo4J 1.x compatibility.
-- Jeremy Branhm
+- Jeremy Branham
