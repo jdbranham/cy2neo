@@ -18,5 +18,5 @@ I wrote most of it while flying from OSCON @ Portland,OR to Chicago on my way ho
 - Michael Hunger
 
 [NOTE]
-Use the Neo1x branch for Neo4J 1.x compatibility.
+Use the Neo1x branch for Neo4j 1.x compatibility.
 - Jeremy Branham
