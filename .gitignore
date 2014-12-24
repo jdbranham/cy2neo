@@ -3,3 +3,5 @@ issues.txt
 node_modules
 .DS_Store
 *.map
+/.settings/
+/.project
